@@ -11,7 +11,6 @@ package com.javaproject.calc;
 public class Calc {
 
     public static void main(String[] args) {
-        calculator calculator = new calculator();
        System.out.println("success created simple calculator");
     }
 }
